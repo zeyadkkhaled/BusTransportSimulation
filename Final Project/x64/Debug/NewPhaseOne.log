@@ -1,0 +1,26 @@
+﻿  Arrival.cpp
+  Bus.cpp
+  BusQueue.cpp
+  Company.cpp
+  Event.cpp
+  EventQueue.cpp
+  Leave.cpp
+  Passenger.cpp
+  PassengerList.cpp
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(459,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(461,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(462,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(465,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(467,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(468,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\Company.cpp(499,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PassengerPrioQueue.cpp
+  PassengerQueue.cpp
+  Source.cpp
+  Station.cpp
+  StationList.cpp
+  TimeHM.cpp
+  UI.cpp
+  Generating Code...
+Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\NewPhaseOne\BusQueue.cpp(106,1): warning C4715: 'BusQueue::PeekPassengerOnBus': not all control paths return a value
+  NewPhaseOne.vcxproj -> Z:\Data Structure and Algorithm\Project\Final\NewPhaseOne\NewPhaseOne\x64\Debug\NewPhaseOne.exe

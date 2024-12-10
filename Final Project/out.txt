@@ -1,0 +1,15 @@
+FT		ID		AT		WT		TT
+4:47		6		3:4		1:17		0:26
+4:47		4		2:40		1:17		1:-10
+4:47		3		2:25		1:17		1:5
+4:46		2		2:15		1:18		1:13
+4:46		7		3:12		1:18		0:16
+4:46		1		2:10		2:20		0:16
+....................................................
+passengers:6	[NP:4, SP:2, WP:0]
+passenger Avg Wait Time=1:87
+passenger Avg Trip Time=0:41
+Auto-promoted passengers:66.6667%
+buses:13	[WBus:6, MBus:7]
+Avg Busy time =0%
+Avg Utilization =0%
